@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TechnicalTest</string>
+    <string name="we_re_on_top">We\'re on Top</string>
+    <string name="dummy_content">Chuck Noris can drink an entire gallon of milk in thirty-seven seconds.</string>
+    <string name="who_on_top">Who\'s on Top ?</string>
+</resources>
